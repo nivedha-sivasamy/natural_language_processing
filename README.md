@@ -1,7 +1,6 @@
 # Natural Language Processing (NLP) Repository
 
-Welcome to the "Natural Language Processing (NLP)" repository! This repository contains Python implementations of various NLP techniques and algorithms. Whether you're a beginner looking to explore NLP or an experienced practitioner seeking advanced examples, this repository aims to provide clear and well-documented code.
-
+Welcome to the "Natural Language Processing (NLP)" repository! This repository contains Python implementations of various NLP techniques and algorithms.
 ## Table of Contents
 
 1. [Introduction](#introduction)
